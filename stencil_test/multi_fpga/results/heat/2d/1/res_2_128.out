@@ -1,0 +1,48 @@
+[vnx 0] Found CMAC link
+[vnx 1] Found CMAC link
+[vnx 0] - [1] 172.155.10.2:5501 - 1
+[vnx 0] Finished configuring vnx on device
+[vnx 1] - [0] 172.155.10.1:5500 - 1
+[vnx 1] Finished configuring vnx on device
+[vnx 0] ARP table: [2] = 00:0a:35:02:9d:02 172.155.10.2
+[vnx 1] ARP table: [1] = 00:0a:35:02:9d:01 172.155.10.1
+[vnx 0] ARP table: [2] = 00:0a:35:02:9d:02 172.155.10.2
+[vnx 1] ARP table: [1] = 00:0a:35:02:9d:01 172.155.10.1
+[vnx 0] ARP table: [2] = 00:0a:35:02:9d:02 172.155.10.2
+[vnx 1] ARP table: [1] = 00:0a:35:02:9d:01 172.155.10.1
+[vnx 0] ARP table: [2] = 00:0a:35:02:9d:02 172.155.10.2
+[vnx 1] ARP table: [1] = 00:0a:35:02:9d:01 172.155.10.1
+[vnx 0] ARP table: [2] = 00:0a:35:02:9d:02 172.155.10.2
+[vnx 1] ARP table: [1] = 00:0a:35:02:9d:01 172.155.10.1
+[vnx 0] ARP table: [2] = 00:0a:35:02:9d:02 172.155.10.2
+[vnx 1] ARP table: [1] = 00:0a:35:02:9d:01 172.155.10.1
+[vnx 0] ARP table: [2] = 00:0a:35:02:9d:02 172.155.10.2
+[vnx 1] ARP table: [1] = 00:0a:35:02:9d:01 172.155.10.1
+[vnx 0] ARP table: [2] = 00:0a:35:02:9d:02 172.155.10.2
+[vnx 1] ARP table: [1] = 00:0a:35:02:9d:01 172.155.10.1
+[vnx 0] ARP table: [2] = 00:0a:35:02:9d:02 172.155.10.2
+[vnx 1] ARP table: [1] = 00:0a:35:02:9d:01 172.155.10.1
+[vnx 0] ARP table: [2] = 00:0a:35:02:9d:02 172.155.10.2
+[vnx 1] ARP table: [1] = 00:0a:35:02:9d:01 172.155.10.1
+Executing for 10 Replays
+Executing for 10 Replays
+Executing for 512 Iterations
+Executing for 512 Iterations
+Executing for 512 Iterations
+Executing for 512 Iterations
+Executing for 512 Iterations
+Executing for 512 Iterations
+Executing for 512 Iterations
+Executing for 512 Iterations
+Executing for 512 Iterations
+Executing for 512 Iterations
+Executing for 512 Iterations
+Executing for 512 Iterations
+Executing for 512 Iterations
+Executing for 512 Iterations
+Executing for 512 Iterations
+Executing for 512 Iterations
+Executing for 512 Iterations
+Executing for 512 Iterations
+Executing for 512 Iterations
+Executing for 512 Iterations
